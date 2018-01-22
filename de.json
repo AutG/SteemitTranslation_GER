@@ -83,6 +83,9 @@
             "one": "1 Antwort",
             "other": "%(count)s Antworten"
         },
+
+            DIESE 3 ZEILEN WIEDER LÖSCHEN, SIND NUR EIN PLATZHALTER, DAMIT ICH DEN FORTSCHRITT NICHT VERGESSE.
+
         "reputation": "Reputation",
         "reveal_comment": "Reveal Comment",
         "request": "request",
